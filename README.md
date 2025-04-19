@@ -31,5 +31,11 @@ I'm a **DevOps Engineer** who builds production-grade CI/CD pipelines, automates
 - 📝 *More projects and open source contributions coming soon...*
 
 ---
+## 🔧 Open Source Contributions
+
+- [DevOps Projects by NotHarshhaa](https://github.com/NotHarshhaa/devops-projects) – Improved Kubernetes install script
+- [TechiesCamp / DevOps-Projects](https://github.com/TechiesCamp/devops-projects) – Fixed SSH timeout in Packer Jenkins AMI build
+
+---
 
 Built with ❤️ by `@jalowaini`
